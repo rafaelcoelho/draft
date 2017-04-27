@@ -1,0 +1,160 @@
+morystatus_thread: idle exiting pid 5657 [backupd-helper]
+memorystatus_thread: idle exiting pid 5659 [secinitd]
+memorystatus_thread: idle exiting pid 5660 [tccd]
+memorystatus_thread: idle exiting pid 5658 [soagent]
+memorystatus_thread: idle exiting pid 5662 [nsurlstoraged]
+memorystatus_thread: idle exiting pid 5663 [backupd-helper]
+memorystatus_thread: idle exiting pid 5665 [systemstatsd]
+memorystatus_thread: idle exiting pid 5661 [coreduetd]
+memorystatus_thread: idle exiting pid 5669 [networkd_privile]
+memorystatus_thread: idle exiting pid 5670 [com.apple.iCloud]
+memorystatus_thread: idle exiting pid 5668 [secd]
+memorystatus_thread: idle exiting pid 5667 [accountsd]
+memorystatus_thread: idle exiting pid 5666 [cfprefsd]
+memorystatus_thread: idle exiting pid 5664 [cfprefsd]
+memorystatus_thread: idle exiting pid 5671 [com.apple.Perfor]
+memorystatus_thread: idle exiting pid 5673 [secinitd]
+memorystatus_thread: idle exiting pid 5674 [tccd]
+Google Chrome He (map: 0xffffff8026c97c30) triggered DYLD shared region unnest for map: 0xffffff8026c97c30, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff80238f9000) triggered DYLD shared region unnest for map: 0xffffff80238f9000, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8024776870) triggered DYLD shared region unnest for map: 0xffffff8024776870, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff80238f9000) triggered DYLD shared region unnest for map: 0xffffff80238f9000, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+memorystatus_thread: idle exiting pid 5675 [backupd-helper]
+memorystatus_thread: idle exiting pid 5677 [nsurlstoraged]
+memorystatus_thread: idle exiting pid 5672 [soagent]
+memorystatus_thread: idle exiting pid 5682 [amfid]
+memorystatus_thread: idle exiting pid 5713 [iconservicesd]
+memorystatus_thread: idle exiting pid 5686 [networkd_privile]
+memorystatus_thread: idle exiting pid 5717 [com.apple.CodeSi]
+memorystatus_thread: idle exiting pid 5711 [iconservicesagen]
+memorystatus_thread: idle exiting pid 5688 [spindump_agent]
+memorystatus_thread: idle exiting pid 5727 [com.apple.BKAgen]
+memorystatus_thread: idle exiting pid 5684 [pkd]
+memorystatus_thread: idle exiting pid 5730 [systemstatsd]
+memorystatus_thread: idle exiting pid 5725 [ContainerMetadat]
+memorystatus_thread: idle exiting pid 5722 [secinitd]
+memorystatus_thread: idle exiting pid 5733 [XPCKeychainSandb]
+memorystatus_thread: idle exiting pid 5726 [secd]
+memorystatus_thread: idle exiting pid 5689 [deleted]
+memorystatus_thread: idle exiting pid 5692 [diagnosticd]
+memorystatus_thread: idle exiting pid 5736 [ScopedBookmarkAg]
+memorystatus_thread: idle exiting pid 5741 [com.apple.Perfor]
+memorystatus_thread: idle exiting pid 5678 [cfprefsd]
+memorystatus_thread: idle exiting pid 5742 [soagent]
+memorystatus_thread: idle exiting pid 5716 [CoreServicesUIAg]
+memorystatus_thread: idle exiting pid 5743 [nsurlstoraged]
+memorystatus_thread: idle exiting pid 5687 [spindump]
+memorystatus_thread: idle exiting pid 5737 [QuickLookSatelli]
+memorystatus_thread: idle exiting pid 5744 [coresymbolicatio]
+memorystatus_thread: idle exiting pid 5685 [accountsd]
+memorystatus_thread: idle exiting pid 5693 [tccd]
+memorystatus_thread: idle exiting pid 5676 [coreduetd]
+memorystatus_thread: idle exiting pid 5719 [cloudd]
+Google Chrome He (map: 0xffffff80271c5b40) triggered DYLD shared region unnest for map: 0xffffff80271c5b40, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff80271c5b40) triggered DYLD shared region unnest for map: 0xffffff80271c5b40, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8026212d20) triggered DYLD shared region unnest for map: 0xffffff8026212d20, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8026b423c0) triggered DYLD shared region unnest for map: 0xffffff8026b423c0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023afc5a0) triggered DYLD shared region unnest for map: 0xffffff8023afc5a0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd7a50) triggered DYLD shared region unnest for map: 0xffffff8023fd7a50, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff80271c5b40) triggered DYLD shared region unnest for map: 0xffffff80271c5b40, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd7a50) triggered DYLD shared region unnest for map: 0xffffff8023fd7a50, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+process Preview[5714] caught causing excessive wakeups. Observed wakeups rate (per sec): 208; Maximum permitted wakeups rate (per sec): 150; Observation period: 300 seconds; Task lifetime number of wakeups: 84279
+Google Chrome He (map: 0xffffff80271c51e0) triggered DYLD shared region unnest for map: 0xffffff80271c51e0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd74b0) triggered DYLD shared region unnest for map: 0xffffff8023fd74b0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+nspace-handler-set-snapshot-time: 1493261953
+process JavaAppLauncher[5590] caught causing excessive wakeups. Observed wakeups rate (per sec): 151; Maximum permitted wakeups rate (per sec): 150; Observation period: 300 seconds; Task lifetime number of wakeups: 170095
+Google Chrome He (map: 0xffffff8023fd75a0) triggered DYLD shared region unnest for map: 0xffffff8023fd75a0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+hfs: mounted Recovery HD on device disk0s3
+hfs: unmount initiated on Recovery HD on device disk0s3
+Google Chrome He (map: 0xffffff80238f9d20) triggered DYLD shared region unnest for map: 0xffffff80238f9d20, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd74b0) triggered DYLD shared region unnest for map: 0xffffff8023fd74b0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny file-read-metadata /Library
+Sandbox: appleeventsd(47) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(47) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(47) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(47) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(47) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(47) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(47) deny mach-lookup com.apple.ocspd
+memorystatus_thread: idle exiting pid 5738 [backupd-helper]
+memorystatus_thread: idle exiting pid 5780 [com.apple.Previe]
+memorystatus_thread: idle exiting pid 5754 [cloudd]
+memorystatus_thread: idle exiting pid 5791 [spindump_agent]
+memorystatus_thread: idle exiting pid 5827 [mapspushd]
+memorystatus_thread: idle exiting pid 5750 [nsurlstoraged]
+memorystatus_thread: idle exiting pid 5828 [softwareupdated]
+memorystatus_thread: idle exiting pid 5843 [installd]
+memorystatus_thread: idle exiting pid 5844 [softwareupdate_d]
+memorystatus_thread: idle exiting pid 5847 [com.apple.Commer]
+memorystatus_thread: idle exiting pid 5804 [CalNCService]
+memorystatus_thread: idle exiting pid 5745 [soagent]
+memorystatus_thread: idle exiting pid 5856 [amfid]
+memorystatus_thread: idle exiting pid 5768 [sysmond]
+memorystatus_thread: idle exiting pid 5853 [com.apple.iCloud]
+memorystatus_thread: idle exiting pid 5756 [secd]
+memorystatus_thread: idle exiting pid 5860 [ContainerMetadat]
+memorystatus_thread: idle exiting pid 5859 [com.apple.InputM]
+memorystatus_thread: idle exiting pid 5755 [networkd_privile]
+memorystatus_thread: idle exiting pid 5862 [QuickLookSatelli]
+memorystatus_thread: idle exiting pid 5863 [com.apple.Safari]
+memorystatus_thread: idle exiting pid 5763 [gamecontrollerd]
+memorystatus_thread: idle exiting pid 5767 [systemstatsd]
+memorystatus_thread: idle exiting pid 5805 [sandboxd]
+memorystatus_thread: idle exiting pid 5850 [diagnosticd]
+memorystatus_thread: idle exiting pid 5874 [com.apple.hiserv]
+memorystatus_thread: idle exiting pid 5885 [tccd]
+memorystatus_thread: idle exiting pid 5779 [CoreServicesUIAg]
+memorystatus_thread: idle exiting pid 5887 [garcon]
+memorystatus_thread: idle exiting pid 5746 [secinitd]
+memorystatus_thread: idle exiting pid 5892 [nsurlstoraged]
+memorystatus_thread: idle exiting pid 5778 [com.apple.CodeSi]
+memorystatus_thread: idle exiting pid 5752 [accountsd]
+memorystatus_thread: idle exiting pid 5751 [tccd]
+memorystatus_thread: idle exiting pid 5775 [iconservicesagen]
+memorystatus_thread: idle exiting pid 5776 [iconservicesd]
+memorystatus_thread: idle exiting pid 5772 [deleted]
+memorystatus_thread: idle exiting pid 5790 [spindump]
+memorystatus_thread: idle exiting pid 5769 [pbs]
+memorystatus_thread: idle exiting pid 5758 [pkd]
+memorystatus_thread: idle exiting pid 5679 [cfprefsd]
+memorystatus_thread: idle exiting pid 5747 [cfprefsd]
+memorystatus_thread: idle exiting pid 5891 [backupd-helper]
+memorystatus_thread: idle exiting pid 5893 [soagent]
+memorystatus_thread: idle exiting pid 5753 [coreduetd]
+memorystatus_thread: idle exiting pid 5748 [ScopedBookmarkAg]
+memorystatus_thread: idle exiting pid 5749 [com.apple.Perfor]
+memorystatus_thread: idle exiting pid 5881 [com.apple.appkit]
+memorystatus_thread: idle exiting pid 5792 [coresymbolicatio]
+memorystatus_thread: idle exiting pid 5903 [nsurlstoraged]
+Google Chrome He (map: 0xffffff8026c97c30) triggered DYLD shared region unnest for map: 0xffffff8026c97c30, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8026b423c0) triggered DYLD shared region unnest for map: 0xffffff8026b423c0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd72d0) triggered DYLD shared region unnest for map: 0xffffff8023fd72d0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023a68000) triggered DYLD shared region unnest for map: 0xffffff8023a68000, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023a68000) triggered DYLD shared region unnest for map: 0xffffff8023a68000, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8026b423c0) triggered DYLD shared region unnest for map: 0xffffff8026b423c0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8026b423c0) triggered DYLD shared region unnest for map: 0xffffff8026b423c0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd74b0) triggered DYLD shared region unnest for map: 0xffffff8023fd74b0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023a68000) triggered DYLD shared region unnest for map: 0xffffff8023a68000, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023a682d0) triggered DYLD shared region unnest for map: 0xffffff8023a682d0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8026b423c0) triggered DYLD shared region unnest for map: 0xffffff8026b423c0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8026b423c0) triggered DYLD shared region unnest for map: 0xffffff8026b423c0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8024776b40) triggered DYLD shared region unnest for map: 0xffffff8024776b40, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8024776b40) triggered DYLD shared region unnest for map: 0xffffff8024776b40, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd72d0) triggered DYLD shared region unnest for map: 0xffffff8023fd72d0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023a68000) triggered DYLD shared region unnest for map: 0xffffff8023a68000, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023a68000) triggered DYLD shared region unnest for map: 0xffffff8023a68000, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd70f0) triggered DYLD shared region unnest for map: 0xffffff8023fd70f0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff80238f90f0) triggered DYLD shared region unnest for map: 0xffffff80238f90f0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+Google Chrome He (map: 0xffffff8023fd72d0) triggered DYLD shared region unnest for map: 0xffffff8023fd72d0, region 0x7fff86600000->0x7fff86800000. While not abnormal for debuggers, this increases system memory footprint until the target exits.
